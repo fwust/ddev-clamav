@@ -14,9 +14,22 @@ The docker image used : [tiredofit/clamav](https://github.com/tiredofit/docker-c
 
 ## Getting Started
 
-- Install the DDEV ClamAV add-on:
+Install the DDEV ClamAV:
+
+For DDEV v1.23.5 or above run
+
+```shell
+ddev add-on get fwust/ddev-clamav
+```
+
+For earlier versions of DDEV run
 
 ```shell
 ddev get fwust/ddev-clamav
+```
+
+Then restart your project.
+
+```shell
 ddev restart
 ```
