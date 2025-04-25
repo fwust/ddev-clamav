@@ -2,7 +2,7 @@
 services:
   clamav:
     container_name: "ddev-${DDEV_SITENAME}-clamav"
-    image: tiredofit/clamav:2.5.2
+    image: tiredofit/clamav:2.6.22
     networks: [default, ddev_default]
     volumes:
       - "../:/scandir"
