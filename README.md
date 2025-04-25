@@ -1,6 +1,6 @@
 # ddev-clamav <!-- omit in toc -->
 
-[![tests](https://github.com/fwust/ddev-clamav/actions/workflows/tests.yml/badge.svg)](https://github.com/fwust/ddev-clamav/actions/workflows/tests.yml) ![project is maintained](https://img.shields.io/maintenance/yes/2024.svg)
+[![tests](https://github.com/fwust/ddev-clamav/actions/workflows/tests.yml/badge.svg)](https://github.com/fwust/ddev-clamav/actions/workflows/tests.yml) ![project is maintained](https://img.shields.io/maintenance/yes/2025.svg)
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
