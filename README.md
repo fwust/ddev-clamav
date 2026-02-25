@@ -13,7 +13,7 @@
 [ClamAV®](https://www.clamav.net/) is an open-source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
 
 This add-on allows you to run [ClamAV](https://www.clamav.net/) through the DDEV web service.
-The docker image used : [clamav/clamav:1.5.1](https://hub.docker.com/r/clamav/clamav).
+The Docker image used is [clamav/clamav-debian:1.5.1](https://hub.docker.com/r/clamav/clamav-debian) (multi-arch: amd64, arm64, ppc64le), so it works on Apple Silicon and other ARM64 hosts as well as x86_64.
 
 ## Getting Started
 
